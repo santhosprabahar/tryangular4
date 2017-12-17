@@ -5,6 +5,9 @@
   "engines": {
     "node": "8.9.3"
   },
+  "scripts": {
+  "start": "node index.js"
+},
   "dependencies": {
     "ejs": "2.4.1",
     "express": "4.13.3",
