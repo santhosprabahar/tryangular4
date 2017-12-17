@@ -1,0 +1,20 @@
+[
+	{
+ 		"name": "Ovvy Tuts",
+ 		"slug": "Ovvy-tuts",
+ 		"embed": "SevSZrp4xDk",
+ 		"imageSrc" : "assets/images/nature/7.jpg"
+ 	},
+ 	{
+ 		"name": "WorldWar Z",
+ 		"slug": "WorldWar-Z",
+ 		"embed": "1XNn4FQ-aVY",
+ 		"imageSrc" : "assets/images/nature/8.jpg"
+ 	},
+ 	{
+ 		"name": "Tyler Durden",
+ 		"slug": "tyler-durden",
+ 		"embed": "CWRTqMGvdpc",
+ 		"imageSrc" : "assets/images/nature/9.jpg"
+ 	}
+]
